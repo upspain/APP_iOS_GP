@@ -1,0 +1,6 @@
+framework module Pods_HeyPlease {
+  umbrella header "Pods-HeyPlease-umbrella.h"
+
+  export *
+  module * { export * }
+}
